@@ -10,6 +10,6 @@ function printString(myString){
     }
 }
 
-function reverseString(){
-
+function reverseString(string){
+  
 }
